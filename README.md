@@ -1,2 +1,3 @@
 # hello-world
-Justin's Training Repository
+Blah blag blah.
+This is stuff I've added for training purposes
